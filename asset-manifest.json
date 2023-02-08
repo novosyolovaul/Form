@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Form/static/css/main.afe75f03.css",
+    "main.js": "/Form/static/js/main.115c1a1e.js",
+    "index.html": "/Form/index.html",
+    "static/media/Arrow.svg": "/Form/static/media/Arrow.be557994fbfa9fc3ef33.svg",
+    "main.afe75f03.css.map": "/Form/static/css/main.afe75f03.css.map",
+    "main.115c1a1e.js.map": "/Form/static/js/main.115c1a1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afe75f03.css",
+    "static/js/main.115c1a1e.js"
+  ]
+}
